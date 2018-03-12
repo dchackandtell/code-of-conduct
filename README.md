@@ -1,9 +1,9 @@
 code-of-conduct
 ===============
 
-####Hear Me Code's Code of Conduct borrows from many excellent codes of conduct written by other organizations.
+#### Hack and Tell's Code of Conduct borrows from many excellent codes of conduct written by other organizations.
 
-(Adapted from the Tech Lady Hackathon Code of Conduct, which includes pieces from Lean Startup, PyCon, and others.)
+(Based on the Hear Me Code Code of Conduct, which was adapted from the Tech Lady Hackathon Code of Conduct, which includes pieces from Lean Startup, PyCon, and others.)
 
 From the [Lean Startup Code of Conduct](http://leanstartup.co/code-of-conduct):
 
@@ -38,26 +38,26 @@ Harassment and other exclusionary behavior aren't acceptable. This includes, but
 - Repeated harassment of others. In general, if someone asks you to stop, then stop.
 ```
 
-**Hear Me Code reserves the right to remove anyone who engages in harassment or other prohibited behavior outlined above from events, to bar them from future events, and to remove them from the group.**
+**Hack and Tell reserves the right to remove anyone who engages in harassment or other prohibited behavior outlined above from events, to bar them from future events, and to remove them from the group.**
 
-####Who is bound by the Code of Conduct?
-* All Hear Me Code members
-* Attendees of any Hear Me Code events
+#### Who is bound by the Code of Conduct?
+* All Hack and Tell members
+* Attendees of any Hack and Tell events
 
-####What if someone violates the Code of Conduct?
+#### What if someone violates the Code of Conduct?
 * Document as much as you can: time, place, people involved, and what happened.
 * Please report the violation immediately in person to the event organizer, a teacher, or teaching assistant. If you feel more comfortable, you may report by email, but please note that teachers and teaching assistants do not typically check email during class, and you may not get an immediate response.
 
-####What happens once I've reported the incident?
+#### What happens once I've reported the incident?
 The event organizers will determine the nature and severity of the incident and decide appropriate action.
 
-####What kinds of action might be taken?
+#### What kinds of action might be taken?
 * Asking a violator to apologize for their actions
 * Suspending a violator's unmoderated posting privileges to the group
 * Removing a violator from an event
 * Banning a violator from future events
 * Removal from the group
 
-####Who decides what's a violation of the code of conduct and enforces decisions?
-* The event organizer, teacher, or teaching assistants.
-* The founder of Hear Me Code
+#### Who decides what's a violation of the code of conduct and enforces decisions?
+* The event organizers
+* The founders of Hack and Tell
